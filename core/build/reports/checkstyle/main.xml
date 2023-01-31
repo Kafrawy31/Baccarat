@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.37">
+<file name="C:\Users\Ahmed\Desktop\cwk2\core\src\main\java\comp1721\cwk2\BaccaratCard.java">
+</file>
+<file name="C:\Users\Ahmed\Desktop\cwk2\core\src\main\java\comp1721\cwk2\BaccaratHand.java">
+<error line="13" column="9" severity="warning" message="Conditional logic can be removed." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanReturnCheck"/>
+<error line="16" column="9" severity="warning" message="&apos;else&apos; construct must use &apos;{}&apos;s." source="com.puppycrawl.tools.checkstyle.checks.blocks.NeedBracesCheck"/>
+</file>
+<file name="C:\Users\Ahmed\Desktop\cwk2\core\src\main\java\comp1721\cwk2\Card.java">
+<error line="14" column="30" severity="warning" message="Name &apos;valueMap&apos; must match pattern &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="C:\Users\Ahmed\Desktop\cwk2\core\src\main\java\comp1721\cwk2\CardCollection.java">
+</file>
+<file name="C:\Users\Ahmed\Desktop\cwk2\core\src\main\java\comp1721\cwk2\CardException.java">
+</file>
+<file name="C:\Users\Ahmed\Desktop\cwk2\core\src\main\java\comp1721\cwk2\Shoe.java">
+</file>
+</checkstyle>
